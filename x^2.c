@@ -13,7 +13,7 @@ int main()
 	else if (a == 0 && b != 0 && c != 0)
 	{
 		printf("* La solution de cette equation du premier degre est:\n");
-		printf("x = %.2f\n", c / b);
+		printf("x = %.2f\n", -c / b);
 	}
 	else
 	{
