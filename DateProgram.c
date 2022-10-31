@@ -34,12 +34,12 @@ int main()
 				jj = 1;
 				mm++;
 			}
-			printf("\n La date du lendemain est %d \%d \%d", jj, mm, aa);
+			printf("\n La date du lendemain est %d %d %d", jj, mm, aa);
 		}
 		else
 		{
 			jj++;
-			printf("\n La date du lendemain est %d \%d \%d", jj, mm, aa);
+			printf("\n La date du lendemain est %d %d %d", jj, mm, aa);
 		}
 	}
 }
